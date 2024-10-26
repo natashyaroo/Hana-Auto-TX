@@ -1,7 +1,8 @@
-Info
+Clone this repository
 ```shell
 git clone https://github.com/natashyaroo/Hana-Auto-TX.git
 ```
+Get into this bot folder
 ```shell
 cd hana
 ```
@@ -11,8 +12,8 @@ nano .env
 ```
 Change with yours
 ```shell
-PRIVATE_KEY=your_private_key
-WALLET_ADDRESS=your_wallet_address
+PRIVATE_KEY=YOUR_PRIVATE_KEY
+WALLET_ADDRESS=YOUR_WALLET_ADDRESS
 ```
 Install
 ```shell
