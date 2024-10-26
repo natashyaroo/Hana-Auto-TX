@@ -4,7 +4,7 @@ git clone https://github.com/natashyaroo/Hana-Auto-TX.git
 ```
 Get into this bot folder
 ```shell
-cd hana
+cd Hana-Auto-TX
 ```
 Add Private key and wallet address to .env file
 ```shell
